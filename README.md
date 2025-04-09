@@ -1,10 +1,8 @@
 # FIFA 19 Player's Rating Repository!
 
-## SC1015-Mini-Project
-
 ## About
 
-This is our Mini Project for SC1015. we used the [FIFA 19 Dataset from Kaggle](https://www.kaggle.com/datasets/karangadiya/fifa19)
+Dataset: [FIFA 19 Dataset from Kaggle](https://www.kaggle.com/datasets/karangadiya/fifa19)
 
 The order of our notebook is: 
 
