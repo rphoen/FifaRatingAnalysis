@@ -12,13 +12,6 @@ The order of our notebook is:
   4. Machine Learning 
   5. Conclusion & Takeaways
 
-Contributors 
-
-  - @qtxbryan Bryan Tan Shao Xuan 
-  - @rphoen Phoen Yu Heng Ryan
-  - @haqimthehipster Norhaqim Azalee
-
-
 ## Problem Definition 
 
   - For a GoalKeeper, which Goalkeeping attribute contributes most to his overall rating? Predict the overall rating of goalkeepers with that attribute 
@@ -48,8 +41,14 @@ Contributors
 
 ## References 
 
-https://plotly.com/python/
-http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-https://en.wikipedia.org/wiki/Random_forest
-https://en.wikipedia.org/wiki/Linear_regression
-https://gdcoder.com/decision-tree-regressor-explained-in-depth/
+https://plotly.com/python/  
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html   
+https://en.wikipedia.org/wiki/Random_forest   
+https://en.wikipedia.org/wiki/Linear_regression   
+https://gdcoder.com/decision-tree-regressor-explained-in-depth/   
+
+## Contributors
+
+  - @qtxbryan Bryan Tan Shao Xuan 
+  - @rphoen Phoen Yu Heng Ryan
+  - @haqimthehipster Norhaqim Azalee
